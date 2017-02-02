@@ -1,0 +1,5 @@
+roman\service\UserService.class
+roman\entity\User.class
+roman\util\HibernateUtil.class
+roman\controller\UserController.class
+roman\dao\UserDAO.class
